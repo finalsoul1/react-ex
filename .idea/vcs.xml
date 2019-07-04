@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/a" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/banner-maker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/banner-maker-custom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/football-info" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-page-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-page-test/node_modules/gh-pages/.cache/github.com!finalsoul1!git-page-test.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gojan-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-next/learnnextjs-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-router-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-starter-kit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-youtube" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weather-map-app" vcs="Git" />
+  </component>
+</project>

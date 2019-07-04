@@ -1,0 +1,17 @@
+{
+  "eslint.autoFixOnSave": true,
+  "editor.autoIndent": true,
+  "editor.wrappingIndent": "same",
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 100,
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.bracketSpacing": true,
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  
+  "git.autofetch": false
+}
